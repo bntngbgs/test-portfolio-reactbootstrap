@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-portfolio-reactbootstrap/static/css/main.d221dc40.css",
+    "main.js": "/test-portfolio-reactbootstrap/static/js/main.2652d103.js",
+    "static/media/postgresql.png": "/test-portfolio-reactbootstrap/static/media/postgresql.205c6e1cf88f5fb991e4.png",
+    "static/media/logo.svg": "/test-portfolio-reactbootstrap/static/media/logo.0b36f81d56f8badb1410e7d7e81569d1.svg",
+    "static/media/hero-image.webp": "/test-portfolio-reactbootstrap/static/media/hero-image.bc61a738e84ecdfdb215.webp",
+    "static/media/whatsapp.png": "/test-portfolio-reactbootstrap/static/media/whatsapp.4607ba66951c73d7e457.png",
+    "index.html": "/test-portfolio-reactbootstrap/index.html",
+    "main.d221dc40.css.map": "/test-portfolio-reactbootstrap/static/css/main.d221dc40.css.map",
+    "main.2652d103.js.map": "/test-portfolio-reactbootstrap/static/js/main.2652d103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.2652d103.js"
+  ]
+}
