@@ -12,7 +12,7 @@ const Footer = () => {
     >
       <Container>
         <p className="text-white text-center fs-5" style={{ margin: '0' }}>
-          Copyright &copy; 2024 Bintang Bagus Pangestu.
+          Copyright &copy; 2024 Bintang Bagus Pangestu
         </p>
       </Container>
     </div>
