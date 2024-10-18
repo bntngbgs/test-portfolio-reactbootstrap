@@ -4,7 +4,7 @@ import { Card } from 'react-bootstrap';
 
 const TechCard = ({ title }) => {
   return (
-    <Card style={{ width: '9rem' }}>
+    <Card style={{ width: '10rem' }}>
       <Card.Img variant="top" src={require(`../assets/${title}.png`)} />
       <Card.Body className="text-center">
         <Card.Title>{title.toUpperCase()}</Card.Title>
